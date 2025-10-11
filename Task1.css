@@ -1,0 +1,56 @@
+body {
+    background: linear-gradient(90deg, #ff6a00, #ee0979, #00c6ff);
+    background-size: 300% 300%;
+    animation: gradientShift 10s ease infinite;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+@keyframes gradientShift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+
+
+.self{
+    /* height: 700px; */
+    /* width: 100%; */
+    justify-content: center;
+    /* background-color: aquamarine; */
+    margin: 5px;
+    display: inline-block;
+    padding: 5px;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+img{
+    height: 400px;
+    align-items: center;
+    border-radius: 2%;
+    transition: all 0.3s ease;
+}
+
+img:hover{
+    height: 420px;
+    box-shadow: 0px 10px 15px black ;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 10px;
+    font-size: 45px;
+    color: wheat;   
+}
+
+p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    line-height: 1.6;
+    color: white; 
+}
