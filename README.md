@@ -15,3 +15,25 @@ A short professional biography describing education, skills, and experiences
 A personal image
 Styling using an external CSS file
 The webpage also features hover effects on the image, smooth font styling, and a modern color gradient background.
+
+
+# Task 2: Responsive Navigation Bar
+
+## 📋 Objective
+Create a responsive navigation bar using **Bootstrap** that collapses into a hamburger menu on smaller screens and includes links to website sections.
+
+---
+
+## 🛠️ Technologies Used
+- HTML5  
+- CSS3  
+- Bootstrap 5  
+
+---
+
+## 🎯 Features
+- Fully **responsive** navbar  
+- **Hamburger menu** on small screens  
+- Links to **IPL, BBL, MLC, SA20, ILT20**  
+- **Search bar** integrated  
+- Simple and clean UI 
