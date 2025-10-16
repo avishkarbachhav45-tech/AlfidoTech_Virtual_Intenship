@@ -15,6 +15,7 @@ A short professional biography describing education, skills, and experiences
 A personal image
 Styling using an external CSS file
 The webpage also features hover effects on the image, smooth font styling, and a modern color gradient background.
+<br><br>
 
 
 # Task 2: Responsive Navigation Bar
@@ -37,6 +38,9 @@ Create a responsive navigation bar using **Bootstrap** that collapses into a ham
 - Links to **IPL, BBL, MLC, SA20, ILT20**  
 - **Search bar** integrated  
 - Simple and clean UI 
+<br> <br>
+
+
 
 # 🎨 Task 3: JavaScript Event Handling
 
