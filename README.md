@@ -38,9 +38,6 @@ Create a responsive navigation bar using **Bootstrap** that collapses into a ham
 - **Search bar** integrated  
 - Simple and clean UI 
 
-
-
-
 # 🎨 Task 3: JavaScript Event Handling
 
 ## 📋 Objective
