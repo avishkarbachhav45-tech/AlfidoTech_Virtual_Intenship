@@ -37,3 +37,25 @@ Create a responsive navigation bar using **Bootstrap** that collapses into a ham
 - Links to **IPL, BBL, MLC, SA20, ILT20**  
 - **Search bar** integrated  
 - Simple and clean UI 
+
+
+
+
+# 🎨 Task 3: JavaScript Event Handling
+
+## 📋 Objective
+Create a button that changes the **background color** of the webpage to a **random color** whenever it is clicked.
+
+---
+
+## 🛠️ Technologies Used
+- HTML5  
+- CSS3  
+- JavaScript  
+
+---
+
+## 🎯 Features
+- Button triggers **JavaScript event handling**  
+- Changes background to a **random color** on every click  
+- Simple, clean, and interactive UI  
