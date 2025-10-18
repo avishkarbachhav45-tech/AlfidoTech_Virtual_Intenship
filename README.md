@@ -60,3 +60,24 @@ Create a button that changes the **background color** of the webpage to a **rand
 - Button triggers **JavaScript event handling**  
 - Changes background to a **random color** on every click  
 - Simple, clean, and interactive UI  
+
+
+#  Task 4: To-Do List Application
+
+## 📖 Description
+
+This project is a simple To-Do List Application built using HTML, CSS, and JavaScript.
+It allows users to add, view, and remove tasks dynamically without reloading the page.
+
+## ⚙️ Features
+
+- Add new tasks easily.
+- Delete tasks once completed.
+- Responsive and clean user interface.
+- All actions handled dynamically with JavaScript.
+
+## 🧩 Technologies Used
+
+- HTML – For webpage structure.
+- CSS – For styling and layout.
+- JavaScript – For dynamic functionality (adding/removing tasks).
